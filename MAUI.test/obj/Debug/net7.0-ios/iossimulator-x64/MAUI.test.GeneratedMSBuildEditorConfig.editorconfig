@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MAUI.test
+build_property.ProjectDir = D:\files\CODE\C#\MAUI\MAUI.test\MAUI.test\
+
+[D:/files/CODE/C\#/MAUI/MAUI.test/MAUI.test/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.test.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/files/CODE/C\#/MAUI/MAUI.test/MAUI.test/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.test.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/files/CODE/C\#/MAUI/MAUI.test/MAUI.test/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.test.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/files/CODE/C\#/MAUI/MAUI.test/MAUI.test/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.test.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/files/CODE/C\#/MAUI/MAUI.test/MAUI.test/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.test.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/files/CODE/C\#/MAUI/MAUI.test/MAUI.test/View/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.test.View.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\AboutPage.xaml
+
+[D:/files/CODE/C\#/MAUI/MAUI.test/MAUI.test/View/CountPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.test.View.CountPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\CountPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\CountPage.xaml
+
+[D:/files/CODE/C\#/MAUI/MAUI.test/MAUI.test/View/NotePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.test.View.NotePage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\NotePage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\NotePage.xaml
